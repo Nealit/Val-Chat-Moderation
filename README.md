@@ -1,2 +1,2 @@
-# MinecraftPlugins
-I share some of my projects here while improving my knowledge
+# Val Chat Moderation
+Simple chat moderation plugin
