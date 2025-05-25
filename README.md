@@ -1,5 +1,5 @@
 # Val Chat Moderation
-Simple chat moderation plugin
+Simple chat moderation plugin for minecraft
 maybe update sometimes
 
 Commands:
